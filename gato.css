@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    
+
+
+}
+.contenedorPadre{
+    display: grid;
+    grid-template-columns: repeat(3,100px);
+    grid-template-rows: repeat(3, 100px);
+    justify-content: center;
+    margin-top: 100px;
+}
+h1{
+    background-image: url(https://img.freepik.com/vector-premium/simple-patron-costuras-escuela-juego-tic-tac-toe-fondo-blanco-negro_172597-451.jpg);
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    
+}
+.todosConten{
+    background-image: url(https://img.freepik.com/vector-premium/simple-patron-costuras-escuela-juego-tic-tac-toe-fondo-blanco-negro_172597-451.jpg);
+    border: 1px solid;
+    font-size: 80px;
+    text-align: center;
+    border-radius: 10px;
+    
+
+
+    
+    
+}
+
+button{
+    margin-left: 650px;
+    margin-top: 20px;
+    width: 100px;
+    height: 40px;
+    border-radius: 10px;
+    background-image: url(https://img.freepik.com/vector-premium/simple-patron-costuras-escuela-juego-tic-tac-toe-fondo-blanco-negro_172597-451.jpg);
+    
+}
+.Puntajes{
+    position: absolute;
+    margin-top: -350px;
+    font-size: 25px;
+    margin-left: 10px;
+    
+    
+    
+
+    
+    
+ 
+
+}
+p{
+    position: absolute;
+    margin-left: 150PX;
+    
+    margin-top: -60px;
+
+}
+#mensaje{
+    margin-right: 500px;
+    margin-left: 500px;
+}
+audio{
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 250px;
+    
+}
+
+
+
